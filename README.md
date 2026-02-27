@@ -82,11 +82,15 @@ int main() {
 
 ## OUTPUT
 $ ./sem.o 
+
+
 <img width="513" height="484" alt="Screenshot 2026-02-27 083930" src="https://github.com/user-attachments/assets/07e53f14-ab7c-4ad8-aa46-8f655c7d4618" />
 
 
 
 $ ipcs
+
+
 <img width="517" height="144" alt="Screenshot 2026-02-27 083940" src="https://github.com/user-attachments/assets/389f3e31-143e-4786-adde-047fe38957f5" />
 
 
